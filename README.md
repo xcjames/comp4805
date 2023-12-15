@@ -1,8 +1,8 @@
 # This is a COMP4805 project using LightGCL as a baseline model. We adopt denoising module to eliminate the noisy interactions in the original graph, as well as cross-layer contrastive loss and random noise to embedding.
 
-# step1: git clone https://github.com/xcjames/comp4805.git
-# step2: extract the zip file tmall.zip in /data
-# step3: run the following python command
+### step1: git clone https://github.com/xcjames/comp4805.git
+### step2: extract the zip file tmall.zip in /data
+### step3: run the following python command
 
 Experiments commands:
 Hyperparameter tuning:

@@ -1,6 +1,11 @@
 # COMP4805 Project
 ### This is a project using LightGCL(https://github.com/HKUDS/LightGCL) as the baseline model. We adopt denoising module to eliminate the noisy interactions in the original graph, as well as cross-layer contrastive loss and random noise to embedding.
 
+## Experiment results
+Please refer to https://github.com/xcjames/comp4805/blob/main/log/summary.csv
+
+
+## Run the code and experiments
 ### step1: clone the repository
 ```git clone https://github.com/xcjames/comp4805.git```
 
